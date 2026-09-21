@@ -2,7 +2,7 @@
 project description here!
 
 ## Table of Contents
-- [Journal One](Entry_One.md)
+- [Journal One](Entry_One)
 - [Journal two](#Journal-two)
 - [Journal three](#Journal-three)
 - [Journal four](#Journal-four)
