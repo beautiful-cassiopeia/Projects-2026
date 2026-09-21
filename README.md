@@ -3,7 +3,6 @@ project description here!
 
 ## Table of Contents
 - [Journal One](#Journal-One)
-week 2
 - [Journal two](#Journal-two)
 - [Journal three](#Journal-three)
 - [Journal four](#Journal-four)
